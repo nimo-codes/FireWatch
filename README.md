@@ -1,1 +1,3 @@
 # FireWatch
+
+Developed a forest fire predictor using satellite images from real-time feed. The model should analyze satellite imagery to predict the likelihood of a forest fire in a given area. The model should be trained on historical data and should use a variety of features extracted from satellite images, such as temperature, humidity, vegetation cover, and wind speed. The model should also be updated continuously with new data to improve its predictions over time. The goal is to provide early warning to authorities and help them take necessary actions to prevent or mitigate the damage caused by forest fires.
